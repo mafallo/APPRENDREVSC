@@ -14,3 +14,5 @@ def greet(who_to_greet):
 
 print(greet("World"))
 print(greet("Mafal"))
+
+#tester que le check de gihu fonctionne
